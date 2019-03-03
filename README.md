@@ -11,7 +11,8 @@ generate text image.
 
 Before building your vocab, you should specify charset in vocab.py, then,
 
-```python vocab.py \
+```
+python vocab.py \
 --operation build --output_dir datasets --name vocab
 ```
 
